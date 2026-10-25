@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="230" viewBox="0 0 1160 230" role="img" aria-label="GitHub activity card">
+<rect width="1160" height="230" rx="17" fill="#0D1420"/><rect x="1" y="1" width="1158" height="228" rx="17" fill="none" stroke="#334155" stroke-width="2"/>
+<text x="27" y="40" font-family="monospace" letter-spacing="2" font-size="14" fill="#5EEAD4">GITHUB / PUBLIC ACTIVITY</text><text x="27" y="89" font-family="Arial,sans-serif" font-size="25" font-weight="bold" fill="#ECF3FC">Activity calendar</text>
+<text x="27" y="123" font-family="Arial,sans-serif" font-size="16" fill="#99ABBF">Live data appears here after the profile workflow completes.</text><text x="27" y="169" font-family="monospace" font-size="15" fill="#4AD9C0">github.com/omghotekar01-dotcom</text>
+<path d="M680 164h443" stroke="#223549" stroke-width="2"/><g fill="#1F3441"><rect x="708" y="62" width="14" height="14" rx="3"/><rect x="728" y="62" width="14" height="14" rx="3"/><rect x="748" y="62" width="14" height="14" rx="3"/><rect x="768" y="62" width="14" height="14" rx="3"/></g><text x="709" y="111" font-family="monospace" font-size="17" fill="#7D95AE">AUTOMATED / DAILY</text>
+</svg>

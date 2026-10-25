@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+<title id="title">Om Ghotekar — Engineer, builder, and creative developer</title><desc id="desc">Dark graphite developer portfolio banner with emerald and cyan circuit motifs.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101827"/><stop offset=".52" stop-color="#0B1220"/><stop offset="1" stop-color="#07101B"/></linearGradient>
+  <linearGradient id="name" x1="0" x2="1"><stop stop-color="#F1F5F9"/><stop offset=".55" stop-color="#C5F5E1"/><stop offset="1" stop-color="#72E6C2"/></linearGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#38BDF8" stop-opacity=".13"/><stop offset=".5" stop-color="#34D399" stop-opacity=".6"/><stop offset="1" stop-color="#38BDF8" stop-opacity=".05"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M 34 0 L 0 0 0 34" fill="none" stroke="#A0B8D0" stroke-opacity=".055" stroke-width="1"/></pattern>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+</defs>
+<rect x="2" y="2" width="1276" height="376" rx="23" fill="url(#bg)" stroke="#27354A" stroke-width="2"/>
+<rect x="3" y="3" width="1274" height="374" rx="22" fill="url(#grid)"/>
+<path d="M22 83H1258" stroke="url(#line)" stroke-width="1.5"/>
+<rect x="40" y="31" rx="12" width="240" height="29" fill="#102B2E" stroke="#205D57"/>
+<circle cx="57" cy="45" r="4" fill="#34D399"/><text x="70" y="50" font-size="12" font-family="monospace" fill="#BDF8E2" letter-spacing="1.7">OPEN TO BUILD &amp; COLLABORATE</text>
+<text x="44" y="153" font-family="Arial,Helvetica,sans-serif" font-weight="900" font-size="69" letter-spacing="-2" fill="url(#name)">OM GHOTEKAR</text>
+<text x="47" y="196" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="21" fill="#D9E5F4">AI / ML Engineer in the making  <tspan fill="#34D399">/</tspan>  Product Builder</text>
+<text x="48" y="233" font-family="monospace" font-size="16" fill="#9DAEC5">Computer Vision · Full-stack · Developer Tools · Creative Tech</text>
+<rect x="45" y="261" width="476" height="1" fill="#27354A"/>
+<text x="47" y="292" font-family="monospace" font-size="14" fill="#79D4E2">PUNE  /  INDIA</text>
+<text x="47" y="325" font-family="monospace" font-size="14" fill="#A4B4C9">B.Tech CSE (AI &amp; ML)  ·  VIT PUNE  ·  2025–2029</text>
+<path d="M770 91C827 46 906 49 955 111S1080 205 1180 101" fill="none" stroke="#34D399" stroke-opacity=".14" stroke-width="16" filter="url(#glow)"/>
+<circle cx="1005" cy="218" r="129" fill="none" stroke="#2B4359" stroke-dasharray="5 10" stroke-width="1.5"/>
+<circle cx="1005" cy="218" r="91" fill="none" stroke="#2B4359" stroke-width="1.5"/>
+<circle cx="1005" cy="218" r="54" fill="#112739" stroke="#35BFA9" stroke-width="2"/>
+<text x="1005" y="208" text-anchor="middle" font-size="32" font-family="monospace" font-weight="700" fill="#B9F6DE">&lt;/&gt;</text>
+<text x="1005" y="235" text-anchor="middle" font-size="10" letter-spacing="2" font-family="monospace" fill="#7BCBBE">BUILD / SHIP</text>
+<path d="M738 127H842L892 176H949M1059 176H1133L1185 128H1242M799 315H896L938 273M1070 269L1111 311H1243" fill="none" stroke="#3A6C7C" stroke-width="2"/>
+<g fill="#34D399"><circle cx="842" cy="127" r="6"/><circle cx="1133" cy="176" r="5"/><circle cx="939" cy="273" r="5"/><circle cx="1111" cy="311" r="5"/></g>
+<g fill="#38BDF8"><circle cx="739" cy="127" r="4"/><circle cx="1241" cy="128" r="4"/><circle cx="799" cy="315" r="4"/><circle cx="1243" cy="311" r="4"/></g>
+<text x="735" y="103" font-family="monospace" font-size="12" fill="#70A1B0">01. RESEARCH</text>
+<text x="1101" y="103" font-family="monospace" font-size="12" fill="#70A1B0">02. ENGINEER</text>
+<text x="1103" y="342" font-family="monospace" font-size="12" fill="#70A1B0">03. CREATE</text>
+</svg>
