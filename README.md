@@ -1,108 +1,116 @@
-# Hey, I'm Om Ghotekar 👋
+<table>
+<tr>
+<td width="73%" valign="middle">
 
-**CSE (AI & ML) student at VIT Pune · Student developer · Product builder**
+# Om Ghotekar
 
-I like building practical projects at the intersection of **AI/ML, computer vision, full-stack development, Android, and developer tools**. Most of my work is hands-on: I enjoy turning ideas into prototypes, testing what actually works, and improving them step by step.
+**Student developer · AI/ML · Software engineering**
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & ML), VIT Pune (2025–2029)
-- 📍 Pune, India
-- 🛠 Exploring AI/ML, computer vision, full-stack apps, Android, and developer tooling
-- 🎨 Also building **OMIO STUDIO** for creative and digital design work
+B.Tech CSE (AI & ML) at **VIT Pune** · Pune, India
 
-<p align="left">
-  <a href="https://github.com/omghotekar01-dotcom"><img src="https://img.shields.io/badge/GitHub-omghotekar01--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/om-ghotekar-omiiii/"><img src="https://img.shields.io/badge/LinkedIn-Om%20Ghotekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/omghotekar01"><img src="https://img.shields.io/badge/X-@omghotekar01-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.instagram.com/om_ghotekar_official/"><img src="https://img.shields.io/badge/Instagram-om__ghotekar__official-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://omio-studio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-OMIO%20STUDIO-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+Hi, I'm Om. I like taking an idea past the pitch stage: figuring out what can actually be built, putting the pieces together, and making something people can try. I work mostly with **AI, computer vision, full-stack applications, and developer tools**. I care about how a product works *and* how it feels to use.
+
+<a href="https://www.linkedin.com/in/om-ghotekar-omiiii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://omio-studio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-OMIO%20STUDIO-20252C?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/omghotekar01-dotcom?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/GitHub-Explore%20projects-24292F?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="27%" align="center" valign="middle">
+<a href="https://github.com/omghotekar01-dotcom"><img src="https://avatars.githubusercontent.com/u/251002539?v=4" width="165" alt="Om's GitHub profile picture"/></a>
+</td>
+</tr>
+</table>
+
+## What I bring to a team
+
+I enjoy hackathons because they demand more than a good idea. Here are the parts of a build I like getting involved in:
+
+| | What I work on | Example |
+|:--|:--|:--|
+| **01** | **From problem to prototype** — narrowing a problem into a usable flow, then building the UI and APIs around it. | [CivicSignal 360](https://github.com/omghotekar01-dotcom/Sociothon) |
+| **02** | **AI with engineering discipline** — vision pipelines, uncertainty handling and testing instead of relying on a model's output blindly. | [SANKET AI](https://github.com/omghotekar01-dotcom/SANKET-AI) |
+| **03** | **Algorithms and systems** — thinking about performance, correctness and reproducible experiments. | [MORPHEUS](https://github.com/omghotekar01-dotcom/prompts---morpheus) |
+| **04** | **Product experience and presentation** — clear interfaces, visual design and explaining a complex build in a simple demo. | [OMIO STUDIO](https://omio-studio.vercel.app/) |
+
+## Selected work
+
+These are **real public codebases**. Click through for the implementation, setup instructions, and documented scope. Some are team projects or research prototypes; I don't present unverified features as finished products.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/omghotekar01-dotcom/prompts---morpheus">MORPHEUS</a></h3>
+<p><b>Algorithms · C++20 · Python · React</b></p>
+<p>How do you choose the right data structure for a workload? MORPHEUS explores configurations, generates C++ code, and checks the results with compile and correctness gates.</p>
+<p><a href="https://github.com/omghotekar01-dotcom/prompts---morpheus">View engineering work →</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/omghotekar01-dotcom/SANKET-AI">SANKET AI</a></h3>
+<p><b>Computer vision · FastAPI · MediaPipe</b></p>
+<p>An Indian Sign Language communication prototype using hand, face and motion cues, with English/Marathi output and explicit handling of uncertain recognition. Its vocabulary is currently limited.</p>
+<p><a href="https://github.com/omghotekar01-dotcom/SANKET-AI">Explore the recognition pipeline →</a></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/omghotekar01-dotcom/KRIYA-ZERO">KRIYA ZERO</a></h3>
+<p><b>Android · Kotlin · CameraX</b></p>
+<p>A phone-native experiment: demonstrate a tabletop task, save its visual checkpoints, then guide and verify a second attempt. Designed for a constrained camera setup.</p>
+<p><a href="https://github.com/omghotekar01-dotcom/KRIYA-ZERO">See the Android implementation →</a></p>
+</td>
+<td valign="top">
+<h3><a href="https://github.com/omghotekar01-dotcom/Mastercard-project---AEGISYNTH">AEGISYNTH</a></h3>
+<p><b>AI security · Python · Z3</b></p>
+<p>A payment-defence research prototype that turns synthetic fraud scenarios into candidate policies, tests them and prepares a human-review package. Not a live banking defence system.</p>
+<p><a href="https://github.com/omghotekar01-dotcom/Mastercard-project---AEGISYNTH">See the verification approach →</a></p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<h3><a href="https://github.com/omghotekar01-dotcom/Sociothon">CivicSignal 360</a></h3>
+<p><b>Civic tech · FastAPI · React</b></p>
+<p>A local prototype for infrastructure investigation workflows, with a relational API, worker and analytics over synthetic civic data.</p>
+<p><a href="https://github.com/omghotekar01-dotcom/Sociothon">Read the project →</a></p>
+</td>
+<td valign="top">
+<h3><a href="https://github.com/omghotekar01-dotcom/SEMR-Physics-Pro">SEMR-Physics Pro</a></h3>
+<p><b>PyTorch · Image restoration</b></p>
+<p>A research experiment in 2× grayscale image restoration with an uncertainty output, currently evaluated using synthetic training examples.</p>
+<p><a href="https://github.com/omghotekar01-dotcom/SEMR-Physics-Pro">Explore the experiment →</a></p>
+</td>
+</tr>
+</table>
+
+**Also built / explored:** [SkillSwap Campus](https://github.com/omghotekar01-dotcom/SkillSwap) · [Semantic document search](https://github.com/omghotekar01-dotcom/RAG-csi) · [SafeShell++](https://github.com/omghotekar01-dotcom/SafeShell-)
+
+## Tools I use
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,ts,react,nodejs,fastapi,pytorch,opencv,androidstudio,git,figma&perline=12&theme=dark" alt="Python, C++, Java, TypeScript, React, Node.js, FastAPI, PyTorch, OpenCV, Android Studio, Git, Figma"/>
 </p>
 
----
+| Area | Working stack |
+|:--|:--|
+| **Languages** | Python, C++, Java, JavaScript / TypeScript, Kotlin, SQL |
+| **Web & APIs** | React, Vite, Node.js, Express, FastAPI, REST, WebSockets |
+| **AI & vision** | PyTorch, MediaPipe, OpenCV, embeddings, ChromaDB |
+| **Apps & data** | Android / CameraX, MongoDB, SQLite, MySQL |
+| **Engineering** | Git, GitHub Actions, testing, documentation, UI/UX |
 
-## A little about me
+## Hackathons, teams & beyond code
 
-- I enjoy building software that is useful, clear, and honest about its limitations.
-- I’m especially interested in **AI/ML systems, vision-based applications, smart interfaces, and engineering-focused tools**.
-- I like combining **logic + design** — not just making things work, but making them feel polished too.
-- Along with coding, I’m active in student communities, hackathons, workshops, and creative work.
+I have participated in events including **Kurukshetra 2.0**, **HackNIMA 2026**, **Samarthya 2026**, and **SecLeaf Q2 CTF**. These experiences have helped me practise team collaboration, thinking under a deadline, and presenting technical ideas. [More on LinkedIn](https://www.linkedin.com/in/om-ghotekar-omiiii/).
 
----
-
-## Featured projects
-
-### [SANKET AI](https://github.com/omghotekar01-dotcom/SANKET-AI)
-A multimodal Indian Sign Language communication prototype with English and Marathi output, built around computer vision, temporal cues, and explicit uncertainty handling.
-
-### [KRIYA ZERO](https://github.com/omghotekar01-dotcom/KRIYA-ZERO)
-An Android-first prototype that learns a short physical demonstration and turns it into a reusable skill-checking workflow.
-
-### [MORPHEUS](https://github.com/omghotekar01-dotcom/prompts---morpheus)
-A workload-aware data-structure synthesis and engineering-intelligence project focused on algorithmic selection, verification, and generated C++ artifacts.
-
-### [SEMR-Physics Pro](https://github.com/omghotekar01-dotcom/SEMR-Physics-Pro)
-A PyTorch research experiment for restoring degraded grayscale images at 2× scale with an accompanying uncertainty output.
-
-### [AEGISYNTH](https://github.com/omghotekar01-dotcom/AEGISYNTH---MOLAD)
-A payment-defense research prototype that explores how new fraud patterns can be turned into reviewed defensive policies.
-
-### [CSI Document Search](https://github.com/omghotekar01-dotcom/RAG-csi)
-A semantic retrieval project that searches PDF and text documents using embeddings and returns the most relevant passages.
-
-<p align="left">
-  <a href="https://github.com/omghotekar01-dotcom/SANKET-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=omghotekar01-dotcom&repo=SANKET-AI&theme=github_dark&hide_border=true" alt="SANKET AI" /></a>
-  <a href="https://github.com/omghotekar01-dotcom/KRIYA-ZERO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=omghotekar01-dotcom&repo=KRIYA-ZERO&theme=github_dark&hide_border=true" alt="KRIYA ZERO" /></a>
-  <a href="https://github.com/omghotekar01-dotcom/prompts---morpheus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=omghotekar01-dotcom&repo=prompts---morpheus&theme=github_dark&hide_border=true" alt="MORPHEUS" /></a>
-  <a href="https://github.com/omghotekar01-dotcom/SEMR-Physics-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=omghotekar01-dotcom&repo=SEMR-Physics-Pro&theme=github_dark&hide_border=true" alt="SEMR-Physics Pro" /></a>
-</p>
+I previously volunteered in **multimedia and design at VIT Pune's Entrepreneurship Development Cell (2025–26)**. I also work on independent branding, campaign and interface concepts through **[OMIO STUDIO](https://omio-studio.vercel.app/)**. I see design as part of engineering: people need to understand and use what we build.
 
 ---
 
-## Tech stack
+**Interested in teaming up for a hackathon, open-source project or technical challenge?** I particularly enjoy **AI for accessibility, developer tools, applied computer vision, civic tech, and software systems**.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,kotlin,react,nodejs,fastapi,pytorch,mongodb,mysql,sqlite,firebase,git,github,figma,androidstudio&perline=9" alt="Tech stack" />
-</p>
+[**Let's connect on LinkedIn**](https://www.linkedin.com/in/om-ghotekar-omiiii/) · [Portfolio](https://omio-studio.vercel.app/) · [GitHub projects](https://github.com/omghotekar01-dotcom?tab=repositories)
 
-**Languages:** Python, C++, Java, JavaScript, TypeScript, Kotlin, SQL  
-**Frameworks & tools:** React, Node.js, Express, FastAPI, PyTorch, MediaPipe, OpenCV, MongoDB, SQLite, MySQL, Firebase, Git, GitHub Actions
-
----
-
-## GitHub activity
-
-<p align="left">
-  <a href="https://github.com/omghotekar01-dotcom?tab=overview"><img src="./assets/activity.svg" width="100%" alt="GitHub contribution activity" /></a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=omghotekar01-dotcom&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-</p>
-
----
-
-## Campus & community
-
-- Student Representative (CR), SY CSE AIML-D, VIT Pune
-- MLSC Coordinator
-- Secretary, SIG Reality Spectra
-- Secretary, SIG Training & Workshop
-- EMS Technical Domain
-- Community President, Adya AI
-
----
-
-## Beyond code
-
-I also explore **branding, social-media design, campaign creatives, UI design, and responsive digital experiences** through **[OMIO STUDIO](https://omio-studio.vercel.app/)**.
-
----
-
-## Connect with me
-
-- **GitHub:** [@omghotekar01-dotcom](https://github.com/omghotekar01-dotcom)
-- **LinkedIn:** [Om Ghotekar](https://www.linkedin.com/in/om-ghotekar-omiiii/)
-- **Portfolio:** [OMIO STUDIO](https://omio-studio.vercel.app/)
-
----
-
-*Build. Learn. Improve. Repeat.*
+<details>
+<summary>Contribution animation</summary>
+<br/>
+<img src="./assets/github-snake.svg" alt="Automatically updated GitHub contribution snake"/>
+</details>

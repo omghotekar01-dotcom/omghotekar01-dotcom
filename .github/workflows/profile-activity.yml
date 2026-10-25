@@ -1,46 +1,32 @@
-name: Refresh GitHub profile activity
+name: Update contribution animation
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "21 3 * * *"
-  push:
-    branches: [main]
-    paths:
-      - "README.md"
-      - "scripts/render_profile.py"
-      - ".github/workflows/profile-activity.yml"
 
 permissions:
   contents: write
 
 jobs:
-  refresh-profile:
+  snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-      - name: Render public GitHub metrics
-        run: python scripts/render_profile.py
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Generate contribution snake
+      - name: Build contribution animation from GitHub data
         uses: Platane/snk/svg-only@v3
-        continue-on-error: true
         with:
           github_user_name: omghotekar01-dotcom
           github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             assets/github-snake.svg?palette=github-dark
-      - name: Commit updated graphics
+      - name: Save updated animation
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity.svg assets/github-snake.svg
+          git add assets/github-snake.svg
           if ! git diff --cached --quiet; then
-            git commit -m "chore: update live public activity visuals"
+            git commit -m "chore: refresh contribution animation"
             git push
           fi
