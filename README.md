@@ -1,14 +1,10 @@
 <table>
 <tr>
 <td width="73%" valign="middle">
-
-# Om Ghotekar
-
-**Student developer · AI/ML · Software engineering**
-
-B.Tech CSE (AI & ML) at **VIT Pune** · Pune, India
-
-Hi, I'm Om. I like taking an idea past the pitch stage: figuring out what can actually be built, putting the pieces together, and making something people can try. I work mostly with **AI, computer vision, full-stack applications, and developer tools**. I care about how a product works *and* how it feels to use.
+<h1>Om Ghotekar</h1>
+<p><strong>Student developer · AI/ML · Software engineering</strong></p>
+<p>B.Tech CSE (AI &amp; ML) at <strong>VIT Pune</strong> · Pune, India</p>
+<p>Hi, I'm Om. I like taking an idea past the pitch stage: figuring out what can actually be built, putting the pieces together, and making something people can try. I work mostly with <strong>AI, computer vision, full-stack applications, and developer tools</strong>. I care about how a product works <em>and</em> how it feels to use.</p>
 
 <a href="https://www.linkedin.com/in/om-ghotekar-omiiii/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://omio-studio.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-OMIO%20STUDIO-20252C?style=flat-square&logo=vercel&logoColor=white"/></a>
